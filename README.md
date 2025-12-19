@@ -30,7 +30,9 @@ Extensibility:
 * Add unit tests for all functions
 
 Example Log Entry:
+
 2025-01-12 05:11:03 FAILED_LOGIN ip=192.168.1.5 user=admin
+
 2025-01-12 05:11:44 LOGIN_SUCCESS ip=192.168.1.5 user=admin
 
 
