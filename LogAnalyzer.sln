@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LogAnalyzer", "LogAnalyzer\LogAnalyzer.pyproj", "{63126C10-B24F-40C5-8280-36BB0EBD5567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63126C10-B24F-40C5-8280-36BB0EBD5567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63126C10-B24F-40C5-8280-36BB0EBD5567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E23831-3341-427A-9ABD-AEF90742A09F}
+	EndGlobalSection
+EndGlobal
