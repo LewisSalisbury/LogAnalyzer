@@ -24,7 +24,6 @@
     <Compile Include="LogAnalyzer.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="readme.md" />
     <Content Include="sample.log" />
     <Content Include="sample2.log" />
   </ItemGroup>
