@@ -2,7 +2,7 @@ import re
 from collections import defaultdict
 
 THRESHOLD = 5
-LOG_FILE = "sample2.log"
+LOG_FILE = "sample.log"
 
 
 
